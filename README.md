@@ -2,7 +2,7 @@
 
 - 💻 Atualmente trabalhando na Carambola Tech
 - 🌱 Estou aprendendo C#, .NET, CSS, Javascript, Angular, React, Metodologia Ágil
-- 👯 Quero colaborar em projetos sociais que envolvam programação e tecnologia
+- 💜 Quero colaborar em projetos sociais que envolvam programação e tecnologia
 - 🥰 Posso te ajudar a aprender a programar, ilustrar e fazer um strogonoff delicioso <3
 - 💬 Me pergunte sobre Programação BackEnd, ilustração, pombas e curiosidades aleatórias!
 - 📫 Para falar comigo é só mandar um alô em amanda.morettini@carambola.com.vc
