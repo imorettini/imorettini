@@ -10,5 +10,4 @@
 - 🤹 Fun fact: Já trabalhei como malabarista e consigo encostar a lingua na ponta do nariz hehe 
 - 🤞  Em 2022 quero assumir mais projetos pessoais e open source!
 
-
 ![Person pretending to work gif](https://media.giphy.com/media/3ohs4jnnmnxfkYiGic/giphy-downsized-large.gif)
