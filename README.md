@@ -1,7 +1,7 @@
 ### Alô Alô! 👋
 
 - 💻 Atualmente trabalhando com FrontEnd na Ânima Educação
-- 🌱 Estou aprendendo Acessibilidade, CSS/Sass, Javascript, Vue, Metodologia Ágil
+- 🌱 Estou aprendendo Acessibilidade, CSS/Sass, Javascript, Vue
 - 💜 Quero colaborar em projetos sociais que envolvam programação e tecnologia
 - 🥰 Posso te ajudar a aprender a programar, ilustrar e fazer um strogonoff delicioso <3
 - 💬 Me pergunte sobre Programação FrontEnd, ilustração, pombas e curiosidades aleatórias!
